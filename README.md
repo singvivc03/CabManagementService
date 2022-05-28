@@ -13,8 +13,8 @@ to that domain properly.
 - [User](src/main/java/com/cab/management/user) : Handles the finding and registering of new user
 
 ### Tools and Java version
-Used gradle version 6.8 for building the project
-Used java version 11 for development
+Used gradle version [6.8](https://docs.gradle.org/6.8.1/userguide/installation.html) for building the project
+Used java version [11](https://www.oracle.com/in/java/technologies/javase/jdk11-archive-downloads.html) for development
 
 ### How the changes are tested
 All changes are compiled and tested by adding the Junit.
